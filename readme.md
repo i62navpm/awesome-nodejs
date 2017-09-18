@@ -214,6 +214,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 ### Debugging / Profiling
 
+- [glimpse](https://github.com/Glimpse/Home) - Spend less time debugging and more time developing.
 - [ironNode](https://github.com/s-a/iron-node) - Node.js debugger supporting ES2015 out of the box.
 - [node-inspector](https://github.com/node-inspector/node-inspector) - Debugger based on Blink Developer Tools.
 - [devtool](https://github.com/Jam3/devtool) - Run Node.js programs through Chrome Dev Tools.
